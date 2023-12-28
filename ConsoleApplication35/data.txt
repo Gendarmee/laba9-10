@@ -7,4 +7,4 @@
 7 1 West 6.8
 8 1 North 3.3
 9 1 NorthWest 5.7
-10 1 East 4.9
+10 1 East 4.9 

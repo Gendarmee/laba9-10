@@ -21,4 +21,4 @@ void mergeSortByDirection(std::vector<WindInfo>& data, int start, int end);
 
 void merge(std::vector<WindInfo>& data, int start, int mid, int end);
 
-#endif  // BOOK_SUBSCRIPTION_H
+#endif  // BOOK_SUBSCRIPTION_H 

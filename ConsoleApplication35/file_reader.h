@@ -13,4 +13,4 @@ private:
     bool processLine(const std::string& line, WindInfo& wind);
 };
 
-#endif  // FILE_READER_H
+#endif  // FILE_READER_H 

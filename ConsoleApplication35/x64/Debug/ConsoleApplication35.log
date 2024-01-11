@@ -1,3 +1,8 @@
 ﻿  main.cpp
-C:\Users\Vladimir\source\repos\ConsoleApplication35\ConsoleApplication35\main.cpp(35,51): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
-  ConsoleApplication35.vcxproj -> C:\Users\Vladimir\source\repos\ConsoleApplication35\x64\Debug\ConsoleApplication35.exe
+C:\Users\Vladimir\laba9-10\laba9-10\ConsoleApplication35\main.cpp(35,51): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  file_reader.cpp
+  book_subscription.cpp
+C:\Users\Vladimir\laba9-10\laba9-10\ConsoleApplication35\book_subscription.cpp(16,15): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\Vladimir\laba9-10\laba9-10\x64\Debug\ConsoleApplication35.exe при последней инкрементной компоновке; выполняется полная компоновка
+  ConsoleApplication35.vcxproj -> C:\Users\Vladimir\laba9-10\laba9-10\x64\Debug\ConsoleApplication35.exe
